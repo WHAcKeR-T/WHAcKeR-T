@@ -1,8 +1,6 @@
 <h1 align="center">Greetings, I'm Wael Ben Mohamed</h1>
 <h3 align="center">A passionate a Full-Stack Web Developer & Designer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-
 <p align="left"> <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="whacker-t" /> </p>
 
 - 📫 How to reach me **waelbm2005@gmail.com**
